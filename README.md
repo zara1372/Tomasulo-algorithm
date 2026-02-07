@@ -1,6 +1,7 @@
-# Tomasulo-algorithm
 markdown
-////
+
+```
+# Tomasulo-algorithm
 Steps of program implementation :
 
 A. setup reservation station 
@@ -120,4 +121,6 @@ Output display:
 !!!Important Note: You must enter the commands of this program manually.
 This program does not have the command to load from memory and store to memory automatically.
 Changing the number of reservation stations directly effects the change of time!!!
-////
+
+
+```
