@@ -4,7 +4,7 @@ Steps of program implementation :
 A. setup reservation station     
 
 //number of reservationstation & reservation station latency & Datapath latency 
-& input raservation station---
+& input reservation station---
 1.
 const int n_Add = 5;
 const int n_mull = 2;
@@ -98,9 +98,9 @@ F12(reg_sEmpty) =12
 F13(reg_sEmpty) = 13
 F14(reg_sEmpty) = 14
 
-run & debuge program
+run & debug program
 
-Out put disply :
+Output display:
 
      Inst      Issue     Execute        WB        SystemClock
                                                       22
