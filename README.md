@@ -1,5 +1,3 @@
-markdown
-
 ```
 # Tomasulo-algorithm
 Steps of program implementation :
